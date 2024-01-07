@@ -79,6 +79,6 @@ bash
 
 npm start
 
-Open your browser and see .
+Open your browser and see.
 
 Thank You!!!
